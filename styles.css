@@ -45,6 +45,10 @@ section {
   height: 600px;
 }
 
+h1{
+  color:blue;
+}
+
 footer {
   margin-top: 10px;
 }
